@@ -1,2 +1,10 @@
 Pruebas.xlsx
 eda_pruebas.ipynb
+catboost_info
+"datasets/04 - Random_Forest.csv"
+"datasets/05 - CatBoost.csv"
+"datasets/06 - XGBoost.csv"
+"datasets/07 - Gradient_Boosting.csv"
+"datasets/08 - LightGBM.csv"
+"datasets/10 - Random_Forest.csv"
+"datasets/12 - TensorFlow.csv"
